@@ -1,4 +1,4 @@
-# HIMEDIA GANGNAM 
+# 20240122 HIMEDIAGN 
 ## 담당 강사 연락처
 ```
 {
