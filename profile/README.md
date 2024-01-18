@@ -3,7 +3,6 @@
 ```
 {
     "name": "남효정",
-    "age": 20,
     "phone": "010-7651-4124",
     "email": "koala.ohgiraffers@gmail.com"
 }
