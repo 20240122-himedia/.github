@@ -12,3 +12,4 @@
 
 ## Language
 ### [01_java](https://github.com/20240125-himedia/01_java)
+#### [01_java_practice](https://github.com/20240125-himedia/01_java_practice.git)
