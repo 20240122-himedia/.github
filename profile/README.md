@@ -11,4 +11,5 @@
 > 수업 소스코드는 수업이 진행되면서 여기에 올려드리겠습니다.
 
 ## Language
-### [01_java](https://github.com/20240125-himedia/01_java)
+### [01_Java](https://github.com/20240125-himedia/01_java)
+### [02_MySQL](https://github.com/20240125-himedia/02_MySQL)
