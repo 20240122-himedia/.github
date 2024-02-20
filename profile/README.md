@@ -13,3 +13,4 @@
 ## Language
 ### [01_Java](https://github.com/20240125-himedia/01_java)
 ### [02_MySQL](https://github.com/20240125-himedia/02_MySQL)
+### [03_JDBC](https://github.com/20240125-himedia/03_jdbc)
