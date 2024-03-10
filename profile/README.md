@@ -4,12 +4,14 @@
 
 ## Language
 ### [01_Java](https://github.com/20240125-himedia/01_java)
-### [02_MySQL](https://github.com/20240125-himedia/02_MySQL)
-### [03_JDBC](https://github.com/20240125-himedia/03_jdbc)
 ### [04_html](https://github.com/20240125-himedia/04_html)
 ### [05_css](https://github.com/20240125-himedia/05_css)
 ### [06-01_JavaScript(core)](https://github.com/20240125-himedia/06_javascript_core)
 ### [06-02_JavaScript(es6)](https://github.com/20240125-himedia/06_javascript_es6)
+## DBMS
+### [02_MySQL](https://github.com/20240125-himedia/02_MySQL)
+## API
+### [03_JDBC](https://github.com/20240125-himedia/03_jdbc)
 
 ## 담당 강사 연락처
 ```
