@@ -12,6 +12,7 @@
 ### [02_MySQL](https://github.com/20240125-himedia/02_MySQL)
 ## API
 ### [03_JDBC](https://github.com/20240125-himedia/03_jdbc)
+### [08_servlet](https://github.com/20240125-himedia/08_servlet)
 ## Library
 ### [07_React](https://github.com/20240125-himedia/07_React)
 
