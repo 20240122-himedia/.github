@@ -28,6 +28,10 @@
 ## Persistence Framework
 ### [09_MyBatis](https://github.com/20240125-himedia/09_MyBatis)
 
+## Authentication
+### [12_SpringSecurity](https://github.com/20240125-himedia/12_SpringSecurity)
+
+
 ## 담당 강사 연락처
 ```
 {
